@@ -1,5 +1,5 @@
 # Food-Ordering-App
-In this project we have created a mobile application of online Food Ordering, we used Android as frontend and Spring boot as a backend.
+In this project we have created a mobile application of online Food Ordering, we used Android as a frontend and Spring boot as a backend. And before using the application, the user must authenticate by entering his login and pwd.
 # Connect Backend to Frontend
 - To Connect Backend to Frontend change the "Base Url" in the StoreController.java to the "ip in which the Server runs".(in my case its "192.168.1.110");
 
