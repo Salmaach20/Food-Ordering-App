@@ -6,5 +6,4 @@ In this project we have created a mobile application of online Food Ordering, we
 - Change the Path of file.upload-dir in "smartmart/src/main/resources/application.properties" to the path of the images folder in the repo
 
 # Developped By
-ACHAHBAR Salma
-ABBADI Aya
+ACHAHBAR Salma & ABBADI Aya
